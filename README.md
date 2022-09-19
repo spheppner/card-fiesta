@@ -1,2 +1,2 @@
-# card-fiesta
+# Card Fiesta
 Open-Source Card Game
